@@ -1,0 +1,14 @@
+#xyz {
+    background-image: url("gateway_of_india_2012.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#paper {
+    border-width: 10px;
+    background-color: antiquewhite;
+    border-color: black;
+    border-style: ridge;
+}
+span {
+    font-size: 20px;
+}
